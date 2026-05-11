@@ -476,6 +476,7 @@ specialSearch = [
         subtitle: 'What? You thought you were gonna get insulted? Not on this fork! :D'    
 
     }
+
 ];
 
 // Calculate totals for statistics
