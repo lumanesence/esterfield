@@ -317,7 +317,7 @@ menuItems = [
         image: 'icons/random.png',
         color: 'var(--color-2)',
         scale: 1.5,
-        invisible: true,
+        invisible: false,
         labels: [
             {
                 cardId: 'random',
@@ -359,6 +359,15 @@ menuItems = [
                     <ul>
                         <li>Creating all kinds of hateful or political content</li><br>
                     </ul>
+                    `,
+            },
+
+            {
+                cardId: 'republic',
+                title: 'About the Republic',
+                detail:
+                    `
+                  <p>The Republic of Esterfield, sometimes also referred to as The British Republic of Esterfield, is a fictional universe created by Lumanesence!</p>
                     `,
             },
         ]
