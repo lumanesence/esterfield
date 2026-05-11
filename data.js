@@ -361,18 +361,6 @@ menuItems = [
                     </ul>
                     `,
             },
-            {
-                cardId: 'credits',
-                title: `Credits`,
-                subtitle: `
-                        Created using Omniverse Web Template<br>
-                        by <a href="https://x.com/artifyber" target="_blank">Artifyber</a>
-                `,
-                unclickable: true,
-                detail:
-                    ``,
-                image: ''
-            },
         ]
     },
 
