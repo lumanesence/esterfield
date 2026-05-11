@@ -474,7 +474,7 @@ specialSearch = [
         query: 'help',
         title: 'If you need some help, send me an email at hello@lumanesence.co.uk and I will make it right!',
         subtitle: 'What? You thought you were gonna get insulted? Not on this fork! :D',
-        image: 'images/temp.png'
+        image: 'https://ptb.lumanesence.co.uk/esterfield/images/twitter.png'
     }
 
 ];
