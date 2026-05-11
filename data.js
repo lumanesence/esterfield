@@ -473,7 +473,7 @@ specialSearch = [
     {
         query: 'help',
         title: 'If you need some help, send me an email at hello@lumanesence.co.uk and I'll make it right!',
-        subtitle: 'What? You thought you were gonna get insulted? Not on this website! :D'
+        subtitle: 'What? You thought you were gonna get insulted? Not on this fork! :D'
     }
 ];
 
