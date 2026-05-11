@@ -6,6 +6,43 @@
     Start customizing how your website look by tweaking these values!
 */
 
+  .banner {
+    width: 100%;
+    background: #1a1207;
+    border-bottom: 1px solid #3a2a0a;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 13px;
+    color: #c9971c;
+    letter-spacing: 0.02em;
+  }
+  .banner a {
+    color: #e8b84b;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(232,184,75,0.4);
+    padding-bottom: 1px;
+    transition: border-color 0.2s;
+  }
+  .banner a:hover { border-color: #e8b84b; }
+
+  .banner-red {
+    width: 100%;
+    background: #1a0807;
+    border-bottom: 1px solid #3d1311;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 13px;
+    color: #c9971c;
+    letter-spacing: 0.02em;
+  }
+  .banner-red a {
+    color: #a8312a;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(232,184,75,0.4);
+    padding-bottom: 1px;
+    transition: border-color 0.2s;
+  }
+
 @font-face {
     font-family: 'Main';
     font-weight: 300;
