@@ -89,7 +89,7 @@ menuItems = [
         menuId: 'menuTemplate',               // REQUIRED: Unique identifier (alphanumeric, no spaces). use anything EXCEPT 'index'
         title: 'Menu Template',                // Menu name and title
         showTitle: true,                      // Show name in orbit
-        subtitle: 'This is a menu example',   // Short description
+        subtitle: 'This is here just in case I forget all the syntaxes and everything',   // Short description
         image: 'images/temp2.png',            // Orbit thumbnail image
         color: 'var(--color-1)',              // Menu color (hex, CSS var, or blank)
         scale: 1,                             // Menu size in orbit
